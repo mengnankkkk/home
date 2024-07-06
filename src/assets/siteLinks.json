@@ -19,11 +19,7 @@
     "name": "起始页",
     "link": "http://nav.mengnankk.asia/"
   },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
+  
   {
     "icon": "Fire",
     "name": "今日热榜",
@@ -32,6 +28,6 @@
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://status.mengnankk.asia/"
   }
 ]
